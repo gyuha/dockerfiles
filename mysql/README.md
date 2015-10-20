@@ -2,7 +2,7 @@
 
 ## Docker build
 ```
-docker build
+docker build --tag mysql .
 ```
 ## 참고
  * http://pyrasis.com/book/DockerForTheReallyImpatient/Chapter16/02
